@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'https://en.wikipedia.org/wiki/Europe/Paris'
+TIME_ZONE = 'Europe/Paris'
 
 USE_I18N = True
 
